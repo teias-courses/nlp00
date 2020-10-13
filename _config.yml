@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-relative-links
 relative_links:
