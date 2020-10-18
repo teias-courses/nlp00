@@ -1,17 +1,19 @@
 ---
-title: Page without sidebar
-subtitle: Demo page without the sidebar
+title: Deep Learning
+subtitle: Khatam University, Fall 1399
 layout: page
 show_sidebar: false
 ---
-## Welcome to GitHub Pages 1
+# Course Description
 
-You can use the [editor on GitHub](https://github.com/m-tabasy/tabasy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This graduate course is a dive into applied deep learning. The students will learn how to implement and train neural networks in a variety of tasks across image, sound, and text processing. As a prerequisite, the students are expected to have a basic knowledge of neural networks and be familiar with the concepts behind their structure and training (backpropagation, etc).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Course instructor
+Mohammad Taher Pilehvar
 
-### Markdown
-
+## Teaching Assistants
+Kiamehr Razaee
+Mohsen Tabasi
 
 | Week 	| Main Session 	| TA Sessions 	| Assignments 	|   	|
 |------	|--------------	|-------------	|-------------	|---	|
