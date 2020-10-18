@@ -44,6 +44,10 @@ Shallow and Deep Neural Networks
 * Discussion on Neural Network Basics
 * Implementing a Simple Model
 
+# Week #3
+| Main Session 	| Coursera Topic	| TA Sessions 	| Assignments 	|
+|-	|-	|-	|-	|
+| Full Cycle of Deep Learning	| Shallow and Deep Neural Networks 	| Working with pandas, numpy and scikit-learn 	|  	|
 
 # Week #3
 | Main Session 	| Coursera Topic | TA Sessions 	| Assignments |
