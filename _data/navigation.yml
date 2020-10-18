@@ -1,5 +1,7 @@
 - name: Home
   link: /page-1/
+- name: Schedule
+  link: /schedule.md
 - name: Lectures
   link: /blog/
 - name: Assignments
