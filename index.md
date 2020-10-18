@@ -1,3 +1,10 @@
+---
+title: Page without sidebar
+subtitle: Demo page without the sidebar
+layout: page
+menubar: flat_menubar
+show_sidebar: false
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/m-tabasy/tabasy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
