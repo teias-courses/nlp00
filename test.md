@@ -32,32 +32,8 @@ show_sidebar: false
 | **Main Session** 	| **Coursera Topic**	| **TA Sessions** 	| **Assignments** 	|
 |------|------|------|-----|
 | Full Cycle of Deep Learning	| Shallow and Deep Neural Networks 	| Working with pandas<br>numpy<br>scikit-learn 	|  	|
+| | | |![profile](./MeVectorized4.png =64x) |
 
-|             |          Grouping           ||
-|First Header  | Second Header | Third Header |
-|-------------|------------|------------|
-|Content       |          *Long Cell*        ||
-|Content       |   **Cell**    |         Cell |
+<img src="./MeVectorized4.png" height="auto" width="64" style="border-radius:100%">
 
-|New section   |     More      |         Data |
-|And more      | With an escaped '\|'         ||
-
-
-|             |          Grouping           ||
-|First Header  | Second Header | Third Header |
-|-------------|:------------:|------------:|
-|Content       |          *Long Cell*        ||
-|Content       |   **Cell**    |         Cell |
-
-|New section   |     More      |         Data |
-|And more      | With an escaped '\|'         ||
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
--------------|:------------:|------------:|
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||
-
+![profile](./MeVectorized4.png)
