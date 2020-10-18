@@ -1,15 +1,15 @@
-- name: Home
-  link: /page-1/
 - name: Schedule
-  link: /schedule.md
+  link: /schedul
 - name: Lectures
-  link: /blog/
+  link: /lectures
 - name: Assignments
-  link: /blog/
+  link: /assignments
 - name: Final Project
-  link: /blog/
-- name: Course Materials
-  link: /blog/
+  link: /final
   dropdown: 
-    - name: Page 2
-      link: /page-2/
+  - name: Guideline
+    link: /guideline
+  - name: Examples
+    link: /projects
+- name: Course Materials
+  link: /materials
