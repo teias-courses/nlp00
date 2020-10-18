@@ -1,0 +1,13 @@
+- name: Home
+  link: /page-1/
+- name: Lectures
+  link: /blog/
+- name: Assignments
+  link: /blog/
+- name: Final Project
+  link: /blog/
+- name: Course Materials
+  link: /blog/
+  dropdown: 
+    - name: Page 2
+      link: /page-2/
