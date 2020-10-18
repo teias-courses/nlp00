@@ -35,5 +35,3 @@ show_sidebar: false
 | | | |![profile](./MeVectorized4.png =64x) |
 
 <img src="./MeVectorized4.png" height="auto" width="64" style="border-radius:100%">
-
-![profile](./MeVectorized4.png)
