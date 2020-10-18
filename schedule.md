@@ -46,7 +46,8 @@ Shallow and Deep Neural Networks
 
 # Week #3
 | Main Session 	| Coursera Topic	| TA Sessions 	| Assignments 	|
-|-	|-	|-	|-	|
+|---	|---	|---	|---	|
+| Full Cycle of Deep Learning	| Shallow and Deep Neural Networks 	| Working with pandas, numpy and scikit-learn 	|  	|
 | Full Cycle of Deep Learning	| Shallow and Deep Neural Networks 	| Working with pandas, numpy and scikit-learn 	|  	|
 
 # Week #3
@@ -55,21 +56,4 @@ Shallow and Deep Neural Networks
 | Full Cycle of Deep Learning | Shallow and Deep Neural Networks | Working with pandas, numpy and scikit-learn	|salam|
 
 
-<section id="categories" markdown="1">
 
-A list of categories:
-
-- foo
-- bar
-
-</section>
-
-<div id="html" markdown="0">
-<h1>HTML part</h1>
-
-  <ul>
-    <li>Foo</li>
-    <li>Bar</li>
-  </ul>
-
-</div>
