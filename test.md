@@ -34,6 +34,6 @@ show_sidebar: false
 | Full Cycle of Deep Learning	| Shallow and Deep Neural Networks 	| Working with pandas<br>numpy<br>scikit-learn 	|  	|
 | | | |![profile](./MeVectorized4.png =64x) |
 
-<img src="./MeVectorized3.png" height="auto" width="64" style="border-radius:100%">
+<img src="./MeVectorized3.jpg" height="auto" width="64" style="border-radius:100%">
 
 <img src="./MeVectorized4.png" height="auto" width="64" style="border-radius:100%">
