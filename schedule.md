@@ -34,6 +34,7 @@ Shallow and Deep Neural Networks
 * Discussion on Neural Network Basics
 * Implementing a Simple Model
 ---
+
 ## Week #3
 ### Main Session
 Full Cycle of Deep Learning
