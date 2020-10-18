@@ -46,5 +46,5 @@ Shallow and Deep Neural Networks
 | Week 	| Main Session 	| Coursera Topic | TA Sessions 	| Assignments 	|   	|
 |------	|--------------	|-------------	|-------------	|---	|---|
 | 1    	| Full Cycle of Deep Learning | Shallow and Deep Neural Networks | Working with pandas, numpy and scikit-learn	|   	||
-| 2    	|              	|             	|             	|   	||
+| 2    	|              	| <ul><li>item1</li><li>item2</li></ul> |             	|   	||
 | 3    	|              	|             	|             	|   	||
