@@ -11,6 +11,7 @@ footer_menu: footer_links
 This graduate course is a dive into applied deep learning. The students will learn how to implement and train neural networks in a variety of tasks across image, sound, and text processing. As a prerequisite, the students are expected to have a basic knowledge of neural networks and be familiar with the concepts behind their structure and training (backpropagation, etc).
 
 <div class="container">
+ <br><br>
  <div class="columns is-multiline">            
   <div class="column is-4">
    <h1>
