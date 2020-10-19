@@ -3,6 +3,7 @@ title: Deep Learning
 subtitle: Khatam University, Fall 1399
 layout: page
 show_sidebar: false
+footer_menu: footer_menu
 ---
 
 # Course Description
@@ -32,15 +33,15 @@ Mohammad Taher Pilehvar
     Teaching Assistants
    </h1>
    <div class="columns is-multiline">
-    <div class="column is-4 has-text-centered">
+    <div class="column is-3 has-text-centered">
      <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Kiamehr<br>Razaee</p>
     </div>
-    <div class="column is-4 has-text-centered">
+    <div class="column is-3 has-text-centered">
      <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Mohsen<br>Tabasi</p>
     </div>
-    <div class="column is-4 has-text-centered">
+    <div class="column is-3 has-text-centered">
      <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Amir Mohammad<br>Salehoof</p>
     </div>
