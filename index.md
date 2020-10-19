@@ -3,7 +3,6 @@ title: Deep Learning
 subtitle: Khatam University, Fall 1399
 layout: page
 show_sidebar: false
-footer_menu: footer_links
 ---
 
 # Course Description
@@ -19,7 +18,7 @@ This graduate course is a dive into applied deep learning. The students will lea
    </h1>
    <div class="column is-6 has-text-centered">
     <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
-    <p class="subtitle is-5">Mohammad Taher<br>Pilehvar</p>
+    <p class="subtitle is-5">Mohammad Taher Pilehvar</p>
    </div>
   </div>
   <div class="column is-8">
@@ -29,15 +28,15 @@ This graduate course is a dive into applied deep learning. The students will lea
    <div class="columns is-multiline">
     <div class="column is-3 has-text-centered">
      <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Kiamehr<br>Razaee</p>
+     <p class="subtitle is-5">Kiamehr Razaee</p>
     </div>
     <div class="column is-3 has-text-centered">
      <img src="./MeVectorized3.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Mohsen<br>Tabasi</p>
+     <p class="subtitle is-5">Mohsen Tabasi</p>
     </div>
     <div class="column is-3 has-text-centered">
      <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Amir Mohammad<br>Salehoof</p>
+     <p class="subtitle is-5">Amir Mohammad Salehoof</p>
     </div>
  </div>
 </div>
