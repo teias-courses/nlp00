@@ -10,13 +10,6 @@ footer_menu: footer_menu
 
 This graduate course is a dive into applied deep learning. The students will learn how to implement and train neural networks in a variety of tasks across image, sound, and text processing. As a prerequisite, the students are expected to have a basic knowledge of neural networks and be familiar with the concepts behind their structure and training (backpropagation, etc).
 
-## Course instructor
-Mohammad Taher Pilehvar
-
-## Teaching Assistants
-* Kiamehr Razaee
-* Mohsen Tabasi
-
 <div class="container">
  <div class="columns is-multiline">            
   <div class="column is-4">
@@ -38,7 +31,7 @@ Mohammad Taher Pilehvar
      <p class="subtitle is-5">Kiamehr<br>Razaee</p>
     </div>
     <div class="column is-3 has-text-centered">
-     <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
+     <img src="./MeVectorized3.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Mohsen<br>Tabasi</p>
     </div>
     <div class="column is-3 has-text-centered">
