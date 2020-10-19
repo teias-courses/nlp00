@@ -4,16 +4,6 @@ subtitle: Khatam University, Fall 1399
 layout: page
 show_sidebar: false
 ---
-<Style>
-img{ 
-position: absolute; 
-top: 0 !important; 
-left: 0 !important; 
-width: 100% !important; 
-height: 100% !important; 
-border-radius: 100% !important
-}
-</style>
 
 # Course Description
 
@@ -25,3 +15,32 @@ Mohammad Taher Pilehvar
 ## Teaching Assistants
 * Kiamehr Razaee
 * Mohsen Tabasi
+
+<div class="container">
+ <div class="columns is-multiline">            
+  <div class="column is-4">
+   <h1>
+    Course instructor
+   </h1>
+   <img src="./MeVectorized4.png" height="auto" width="64" style="border-radius:100%">
+   <p class="subtitle is-5">Mohammad Taher Pilehvar</p>
+  </div>
+  <div class="column is-8 has-text-centered">
+   <h1>
+    Teaching Assistants
+   </h1>
+   <div class="columns is-multiline">
+    <div class="column is-4 has-text-centered">
+     <img src="./MeVectorized4.png" height="auto" width="64" style="border-radius:100%">
+     <p class="subtitle is-5">Kiamehr Razaee</p>
+    </div>
+    <div class="column is-4 has-text-centered">
+     <img src="./MeVectorized4.png" height="auto" width="64" style="border-radius:100%">
+     <p class="subtitle is-5">Mohsen Tabasi</p>
+    </div>
+    <div class="column is-4 has-text-centered">
+     <img src="./MeVectorized4.png" height="auto" width="64" style="border-radius:100%">
+     <p class="subtitle is-5">Mohsen Tabasi</p>
+    </div>
+ </div>
+</div>
