@@ -18,7 +18,7 @@ show_sidebar: false
 | Week 	| Date	| Main Session 	| Coursera Topic | Project 	|
 |------|------|------|-----|-----|
 | 4 | 1 - 7 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)	| C2M1: Practical Aspects of Deep Learning (8h)<br>C2M2: Optimization Algorithms (5h)	| Project Proposal<br>Deadline: 7 Azar 	|
-| 5 | 8 - 14 Azar | Full Cycle of Deep Learning	| C2M3: Hyperparameter tuning, etc. (5h)<br>C3: ML Strategy (5h)	|  	|
+| 5 | 8 - 14 Azar | Full Cycle of Deep Learning	| C2M3: Hyperparameter Tuning, etc. (5h)<br>C3: ML Strategy (5h)	|  	|
 | 6 | 15 - 21 Azar | Project Proposal Presentation	| C4M1: Foundations of Convolutional Neural Networks (6h)<br>C4M2: Deep Convolutional Models: Case Studies (5h) 	|  	|
 | 7 | 22 - 28 Azar | Deep Learning Strategy	| C4M3: Object Detection (4h)<br>C4M4: Special Applications: Face Recognition & Neural Style Transfer (5h) 	|  	|
 
