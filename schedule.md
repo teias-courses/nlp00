@@ -7,7 +7,7 @@ show_sidebar: false
 
 # Aban 99
 
-| Week 	| Date	| Main Session 	| Coursera Topic | Project 	|
+| Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
 |------|------|------|-----|-----|
 | 1 | 10 - 16 Aban | Introduction	| Study ML Basics if Needed (non-Coursera)<br>C1M1: Introduction to Deep Learning (2h) 	|  	|
 | 2 | 17 - 23 Aban | Deep Learning Intuition	| C1M2: Neural Networks Basics (8h)	|  	|
@@ -15,7 +15,7 @@ show_sidebar: false
 
 # Azar 99
 
-| Week 	| Date	| Main Session 	| Coursera Topic | Project 	|
+| Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
 |------|------|------|-----|-----|
 | 4 | 1 - 7 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)	| C2M1: Practical Aspects of Deep Learning (8h)<br>C2M2: Optimization Algorithms (5h)	| Project Proposal<br>Deadline: 7 Azar 	|
 | 5 | 8 - 14 Azar | Full Cycle of Deep Learning	| C2M3: Hyperparameter Tuning, etc. (5h)<br>C3: ML Strategy (5h)	|  	|
@@ -24,7 +24,7 @@ show_sidebar: false
 
 # Dey 99
 
-| Week 	| Date	| Main Session 	| Coursera Topic | Project 	|
+| Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
 |------|------|------|-----|-----|
 | 8 | 29 Azar - 5 Dey | Interpretability of Neural Networks	| C5M1: Recurrent Neural Networks (6h) 	| First Progress Report<br>Deadline: 5 Dey 	|
 | 9 | 6 - 12 Dey | Reading Research Papers	| C5M2: Natural Language Processing & Word Embeddings (4h)<br>C5M3: Sequence Models & Attention Mechanism	(5h) |  	|
