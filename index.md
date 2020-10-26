@@ -17,7 +17,7 @@ This graduate course is a dive into applied deep learning. The students will lea
     Course instructor
    </h1>
    <div class="column is-6 has-text-centered">
-    <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
+    <img src="assets/img/taher.jpg" height="auto" width="96" style="border-radius:100%">
     <p class="subtitle is-5">Mohammad Taher Pilehvar</p>
    </div>
   </div>
@@ -27,15 +27,15 @@ This graduate course is a dive into applied deep learning. The students will lea
    </h1>
    <div class="columns is-multiline">
     <div class="column is-3 has-text-centered">
-     <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
+     <img src="assets/img/kiamehr.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Kiamehr Razaee</p>
     </div>
     <div class="column is-3 has-text-centered">
-     <img src="./MeVectorized3.jpg" height="auto" width="96" style="border-radius:100%">
+     <img src="assets/img/mohsen.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Mohsen Tabasi</p>
     </div>
     <div class="column is-3 has-text-centered">
-     <img src="./MeVectorized4.png" height="auto" width="96" style="border-radius:100%">
+     <img src="assets/img/amirmohammad.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Amir Mohammad Salehoof</p>
     </div>
  </div>
