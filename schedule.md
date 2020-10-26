@@ -7,21 +7,24 @@ show_sidebar: false
 
 # Aban 99
 
-| Week 	| Date	| Main Session 	| Coursera Topic | TA Sessions 	|
+| Week 	| Date	| Main Session 	| Coursera Topic | Project 	|
 |------|------|------|-----|-----|
-| 1 | 10 Aban - 16 Aban | Introduction	| Shallow and Deep Neural Networks 	| Working with pandas<br>numpy<br>scikit-learn 	|
-| 2 | 17 Aban - 23 Aban | Deep Learning Intuition	| Practical Aspects of Deep Learning 	| Tensorflow Introduction<br>Basic Operations 	|
-| 3 | 24 Aban - 30 Aban | Full Cycle of Deep Learning	| Shallow and Deep Neural Networks<br>[slides](index) 	| Working with pandas<br>numpy<br>scikit-learn 	|
+| 1 | 10 - 16 Aban | Introduction	| Study ML Basics if Needed (non-Coursera)<br>C1M1: Introduction to Deep Learning (2h) 	|  	|
+| 2 | 17 - 23 Aban | Deep Learning Intuition	| C1M2: Neural Networks Basics (8h)	|  	|
+| 3 | 24 - 30 Aban | Deep Learning Intuition 2	| C1M3: Shallow Neural Networks (5h)<br>C1M4: Deep Neural Networks (5h)	|  	|
 
 # Azar 99
 
 | Week 	| Date	| Main Session 	| Coursera Topic | Project 	|
 |------|------|------|-----|-----|
-| 7 | 1 Azar - 28 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)<br>[slides](index)	| Practical Aspects of Deep Learning 	| Project Proposal<br>Deadline: 24 Azar 	|
-| 8 | 28 Azar - 5 Azar | Full Cycle of Deep Learning	| Shallow and Deep Neural Networks 	|  	|
-| 9 | 28 Azar - 5 Azar | Full Cycle of Deep Learning	| Shallow and Deep Neural Networks 	|  	|
-| 10 | 21 Azar - 28 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)	| Practical Aspects of Deep Learning 	|  	|
-| 11 | 28 Aban - 5 Azar | Full Cycle of Deep Learning	| Shallow and Deep Neural Networks 	| First Progress Report<br>Deadline: 24 Azar 	|
-| 12 | 21 Aban - 28 Aban | Adversarial Attacks<br>Generative Adversarial Networks (GAN)	| Practical Aspects of Deep Learning 	|  	|
+| 4 | 1 - 7 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)	| C2M1: Practical Aspects of Deep Learning (8h)<br>C2M2: Optimization Algorithms (5h)	| Project Proposal<br>Deadline: 7 Azar 	|
+| 5 | 8 - 14 Azar | Full Cycle of Deep Learning	| C2M3: Hyperparameter tuning, etc. (5h)<br>C3: ML Strategy (5h)	|  	|
+| 6 | 15 - 21 Azar | Project Proposal Presentation	| C4M1: Foundations of Convolutional Neural Networks (6h)<br>C4M2: Deep Convolutional Models: Case Studies (5h) 	|  	|
+| 7 | 22 - 28 Azar | Deep Learning Strategy	| C4M3: Object Detection (4h)<br>C4M4: Special Applications: Face Recognition & Neural Style Transfer (5h) 	|  	|
 
-
+# Dey 99
+| 8 | 29 Azar - 5 Dey | Interpretability of Neural Networks	| C5M1: Recurrent Neural Networks (6h) 	| First Progress Report<br>Deadline: 5 Dey 	|
+| 9 | 6 - 12 Dey | Reading Research Papers	| C5M2: Natural Language Processing & Word Embeddings (4h)<br>C5M3: Sequence Models & Attention Mechanism	(5h) |  	|
+| 10 | 13 - 19 Dey | Deep Reinforcement Learning	| 	|  	|
+| 11 | 20 - 26 Dey | Advance Topics in Deep Learning (NLP, CV)	|  	| Project Final Report<br>Deadline: 26 Dey 	|
+| 12 | 27 Dey - 3 Bahman | Final Project Presentation	|  	|  	|
