@@ -17,8 +17,8 @@ show_sidebar: false
 
 | Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
 |------|------|------|-----|-----|
-| 4 | 1 - 7 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)	| C2M1: Practical Aspects of Deep Learning (8h)<br>C2M2: Optimization Algorithms (5h)	| Project Proposal<br>Deadline: 7 Azar 	|
-| 5 | 8 - 14 Azar | Full Cycle of Deep Learning	| C2M3: Hyperparameter Tuning, etc. (5h)<br>C3: ML Strategy (5h)	|  	|
+| 4 | 1 - 7 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)	| C2M1: Practical Aspects of Deep Learning (8h)<br>C2M2: Optimization Algorithms (5h)	|  	|
+| 5 | 8 - 14 Azar | Full Cycle of Deep Learning	| C2M3: Hyperparameter Tuning, etc. (5h)<br>C3: ML Strategy (5h)	| Project Proposal<br>Deadline: 14 Azar 	|
 | 6 | 15 - 21 Azar | Project Proposal Presentation	| C4M1: Foundations of Convolutional Neural Networks (6h)<br>C4M2: Deep Convolutional Models: Case Studies (5h) 	|  	|
 | 7 | 22 - 28 Azar | Deep Learning Strategy	| C4M3: Object Detection (4h)<br>C4M4: Special Applications: Face Recognition & Neural Style Transfer (5h) 	|  	|
 
@@ -26,8 +26,8 @@ show_sidebar: false
 
 | Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
 |------|------|------|-----|-----|
-| 8 | 29 Azar - 5 Dey | Interpretability of Neural Networks	| C5M1: Recurrent Neural Networks (6h) 	| First Progress Report<br>Deadline: 5 Dey 	|
-| 9 | 6 - 12 Dey | Reading Research Papers	| C5M2: Natural Language Processing & Word Embeddings (4h)<br>C5M3: Sequence Models & Attention Mechanism	(5h) |  	|
+| 8 | 29 Azar - 5 Dey | Interpretability of Neural Networks	| C5M1: Recurrent Neural Networks (6h) 	|  	|
+| 9 | 6 - 12 Dey | Reading Research Papers	| C5M2: Natural Language Processing & Word Embeddings (4h)<br>C5M3: Sequence Models & Attention Mechanism	(5h) | First Progress Report<br>Deadline: 12 Dey 	|
 | 10 | 13 - 19 Dey | Deep Reinforcement Learning	| 	|  	|
-| 11 | 20 - 26 Dey | Advance Topics in Deep Learning (NLP, CV)	|  	| Project Final Report<br>Deadline: 26 Dey 	|
-| 12 | 27 Dey - 3 Bahman | Final Project Presentation	|  	|  	|
+| 11 | 20 - 26 Dey | Advance Topics in Deep Learning (NLP, CV)	|  	|  	|
+| 12 | 27 Dey - 3 Bahman | Final Project Presentation	|  	| Project Final Report<br>Deadline: 3 Bahman 	|
