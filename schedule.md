@@ -23,6 +23,7 @@ show_sidebar: false
 | 7 | 22 - 28 Azar | Deep Learning Strategy	| C4M3: Object Detection (4h)<br>C4M4: Special Applications: Face Recognition & Neural Style Transfer (5h) 	|  	|
 
 # Dey 99
+
 | Week 	| Date	| Main Session 	| Coursera Topic | Project 	|
 |------|------|------|-----|-----|
 | 8 | 29 Azar - 5 Dey | Interpretability of Neural Networks	| C5M1: Recurrent Neural Networks (6h) 	| First Progress Report<br>Deadline: 5 Dey 	|
