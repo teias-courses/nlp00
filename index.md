@@ -36,7 +36,7 @@ Flipped style classroom:
    </div>
   </div>
   
-  <div class="column is-4">
+  <div class="column is-5">
    <h1>
     Teaching Assistants
    </h1>
