@@ -33,6 +33,7 @@ show_sidebar: false
 | 11 | 27 Dey - 3 Bahman | Advance Topics in Deep Learning (NLP, CV)	|  	|  	|
 
 # Bahman 99
+
 | Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
 |------|------|------|-----|-----|
 | 12 | 27 Dey - 3 Bahman | Final Project Presentation	|  	| Project Final Report<br>Deadline: 3 Bahman 	|
