@@ -38,16 +38,16 @@ Flipped style classroom:
    </div>
   </div>
   
-  <div class="column is-5">
+  <div class="column is-4">
    <h1>
     Teaching Assistants
    </h1>
    <div class="columns is-multiline">
-    <div class="column is-6 has-text-centered">
+    <div class="column is-4 has-text-centered">
      <img src="assets/img/kiamehr.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Kiamehr Razaee</p>
     </div>
-    <div class="column is-6 has-text-centered">
+    <div class="column is-4 has-text-centered">
      <img src="assets/img/mohsen.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Mohsen Tabasi</p>
     </div>
@@ -60,11 +60,11 @@ Flipped style classroom:
     Mentors
    </h1>
    <div class="columns is-multiline">
-    <div class="column is-6 has-text-centered">
+    <div class="column is-4 has-text-centered">
      <img src="assets/img/amirmohammad.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Amir Mohammad Salehoof</p>
     </div>
-    <div class="column is-6 has-text-centered">
+    <div class="column is-4 has-text-centered">
      <img src="assets/img/mohsen.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Vahid Mazinani</p>
     </div>
