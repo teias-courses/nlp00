@@ -5,9 +5,22 @@ layout: page
 show_sidebar: false
 ---
 
-# Course Description
+# About This Course
 
-This graduate course is a dive into applied deep learning. The students will learn how to implement and train neural networks in a variety of tasks across image, sound, and text processing. As a prerequisite, the students are expected to have a basic knowledge of neural networks and be familiar with the concepts behind their structure and training (backpropagation, etc).
+The course is a combination of applied and theoretical aspects of deep learning. In addition to discussing recent state-of-the-art models in both supervised and unsupervised learning, we delve into the details of various network architectures for processing texts and images. Special emphasis will be put on learning how to work with deep learning libraries, particularly Tensorflow 2.0. 
+
+In this course you will learn the foundations of deep learning, understand various neural network architectures, and practice developing machine learning projects from scratch.
+
+# Learning Objectives  
+
+The course is a combination of applied and theoretical aspects of deep learning. In addition to discussing recent state-of-the-art models in both supervised and unsupervised learning, we delve into the details of various network architectures for processing texts and images. Special emphasis will be put on learning how to work with deep learning libraries, particularly Tensorflow 2.0. 
+
+# Course Weekly Plan
+
+Flipped style classroom: 
+* Lecture (Sundays)
+* TA Session (Tuesdays)
+* Project Mentorship (Wednesdays)
 
 <div class="container">
  <br><br>
