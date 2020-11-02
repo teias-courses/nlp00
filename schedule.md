@@ -30,10 +30,10 @@ show_sidebar: false
 | 8 | 6 - 12 Dey | Interpretability of Neural Networks	| C5M1: Recurrent Neural Networks (6h) 	|  	|
 | 9 | 13 - 19 Dey | Reading Research Papers	| C5M2: Natural Language Processing & Word Embeddings (4h)<br>C5M3: Sequence Models & Attention Mechanism	(5h) | First Progress Report<br>Deadline: 12 Dey 	|
 | 10 | 20 - 26 Dey | Deep Reinforcement Learning	| 	|  	|
-| 11 | 27 Dey - 3 Bahman | Advance Topics in Deep Learning (NLP, CV)	|  	|  	|
 
 # Bahman 99
 
 | Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
 |------|------|------|-----|-----|
+| 11 | 27 Dey - 3 Bahman | Advance Topics in Deep Learning (NLP, CV)	|  	|  	|
 | 12 | 4 - 10 Bahman | Final Project Presentation	|  	| Project Final Report<br>Deadline: 3 Bahman 	|
