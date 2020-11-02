@@ -26,7 +26,7 @@ Flipped style classroom:
  <br><br>
  
  <div class="columns is-multiline">            
-  <div class="column is-4">
+  <div class="column is-3">
    <h1>
     Course instructor
    </h1>
@@ -49,7 +49,9 @@ Flipped style classroom:
      <img src="assets/img/mohsen.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Mohsen Tabasi</p>
     </div>
- </div>
+   </div>
+   </div>
+ 
  
    <div class="column is-4">
    <h1>
@@ -64,6 +66,9 @@ Flipped style classroom:
      <img src="assets/img/mohsen.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Vahid Mazinani</p>
     </div>
+   </div>
+   </div>
+    
     
  </div>
 </div>
