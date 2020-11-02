@@ -36,4 +36,4 @@ show_sidebar: false
 
 | Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
 |------|------|------|-----|-----|
-| 12 | 27 Dey - 3 Bahman | Final Project Presentation	|  	| Project Final Report<br>Deadline: 3 Bahman 	|
+| 12 | 4 - 10 Bahman | Final Project Presentation	|  	| Project Final Report<br>Deadline: 3 Bahman 	|
