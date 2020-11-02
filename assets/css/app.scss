@@ -3,3 +3,12 @@
 $primary: #751555;
 // Import Main CSS file from theme
 @import "main";
+
+body {
+  position: relative;
+  min-height: 100vh;
+}
+
+section {
+  padding-bottom: 12.5rem;    /* Footer height */
+}
