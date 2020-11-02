@@ -26,7 +26,7 @@ Flipped style classroom:
  <br><br>
  
  <div class="columns is-multiline">            
-  <div class="column is-3">
+  <div class="column is-4">
    <h1>
     Course instructor
    </h1>
