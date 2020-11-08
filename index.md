@@ -38,6 +38,12 @@ Flipped style classroom:
    </div>
   </div>
   
+  
+    
+ </div>
+ 
+  <div class="columns is-multiline">        
+ 
   <div class="column is-4">
    <h1>
     Teaching Assistants
@@ -53,10 +59,8 @@ Flipped style classroom:
     </div>
    </div>
    </div>
-    
- </div>
- 
-  <div class="columns is-multiline">            
+   
+   
    <div class="column is-4">
    <h1>
     Mentors
