@@ -5,4 +5,6 @@ hide_hero: true
 show_sidebar: false
 ---
 
-No assignment YET! 🙂
+# Assignments
+
+* No assignment YET! 🙂
