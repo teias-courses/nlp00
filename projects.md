@@ -1,5 +1,10 @@
-# My Personal Projects
+---
+hide_hero: true
+layout: page
+hide_hero: true
+show_sidebar: false
+---
 
-* project 1
-* project 2
-* project 3
+# Example Projects
+
+* Will be added soon...
