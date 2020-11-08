@@ -53,8 +53,10 @@ Flipped style classroom:
     </div>
    </div>
    </div>
+    
+ </div>
  
- 
+  <div class="columns is-multiline">            
    <div class="column is-4">
    <h1>
     Mentors
@@ -64,13 +66,8 @@ Flipped style classroom:
      <img src="assets/img/amirmohammad.jpg" height="auto" width="96" style="border-radius:100%">
      <p class="subtitle is-5">Amir Mohammad Salehoof</p>
     </div>
-    <div class="column is-4 has-text-centered">
-     <img src="assets/img/mohsen.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Vahid Mazinani</p>
-    </div>
    </div>
    </div>
-    
-    
- </div>
+   </div>
+ 
 </div>
