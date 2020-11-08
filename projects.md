@@ -5,6 +5,6 @@ hide_hero: true
 show_sidebar: false
 ---
 
-# Example Projects
+# Projects
 
-* Will be added soon...
+* Final projects will be published here...
