@@ -7,24 +7,24 @@ show_sidebar: false
 
 # Aban 99
 
-| Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
+| Week 	| Date	| Main Session 	| Coursera Modules | TA Session 	|
 |------|------|------|-----|-----|
-| 1 | 17 - 23 Aban | Introduction	| Study ML Basics if Needed (non-Coursera)<br>[C1M1](https://www.coursera.org/learn/neural-networks-deep-learning): Introduction to Deep Learning (2h) 	|  	|
-| 2 | 24 - 30 Aban | Introduction 2	| [C1M2](https://www.coursera.org/learn/neural-networks-deep-learning): Neural Networks Basics (8h)	|  	|
+| 1 | 17 - 23 Aban | Introduction	| Study ML Basics if Needed (non-Coursera)<br>[C1M1](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1): Introduction to Deep Learning (2h) 	| Introduction to [Colab, Numpy](https://github.com/teias-courses/dl99/blob/gh-pages/resources/colab_numpy_intro.ipynb),<br>[Visualization with Matplotlib, other libs](https://github.com/teias-courses/dl99/blob/gh-pages/resources/visualization.ipynb)<br>[Pandas, Scikit-learn](https://github.com/teias-courses/dl99/blob/gh-pages/resources/pandas_sklearn_intro.ipynb) 	|
+| 2 | 24 - 30 Aban | Introduction 2	| [C1M2](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/2): Neural Networks Basics (8h)	| Discussion about ML Basics, C1M1, First Assignment 	|
 
 
 # Azar 99
 
-| Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
+| Week 	| Date	| Main Session 	| Coursera Modules | TA Session 	|
 |------|------|------|-----|-----|
-| 3 | 1 - 7 Azar | Deep Learning Intuition	| [C1M3](https://www.coursera.org/learn/neural-networks-deep-learning): Shallow Neural Networks (5h)<br>[C1M4](https://www.coursera.org/learn/neural-networks-deep-learning): Deep Neural Networks (5h)	|  	|
+| 3 | 1 - 7 Azar | Deep Learning Intuition	| [C1M3](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/3): Shallow Neural Networks (5h)<br>[C1M4](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/4): Deep Neural Networks (5h)	|  	|
 | 4 | 8 - 14 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)	| C2M1: Practical Aspects of Deep Learning (8h)<br>C2M2: Optimization Algorithms (5h)	|  	|
 | 5 | 15 - 21 Azar | Full Cycle of Deep Learning	| C2M3: Hyperparameter Tuning, etc. (5h)<br>C3: ML Strategy (5h)	| Project Proposal<br>Deadline: 14 Azar 	|
 | 6 | 22 - 28 Azar | Project Proposal Presentation	| C4M1: Foundations of Convolutional Neural Networks (6h)<br>C4M2: Deep Convolutional Models: Case Studies (5h) 	|  	|
 
 # Dey 99
 
-| Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
+| Week 	| Date	| Main Session 	| Coursera Modules | TA Session 	|
 |------|------|------|-----|-----|
 | 7 | 29 Azar - 5 Dey | Deep Learning Strategy	| C4M3: Object Detection (4h)<br>C4M4: Special Applications: Face Recognition & Neural Style Transfer (5h) 	|  	|
 | 8 | 6 - 12 Dey | Interpretability of Neural Networks	| C5M1: Recurrent Neural Networks (6h) 	|  	|
@@ -33,7 +33,7 @@ show_sidebar: false
 
 # Bahman 99
 
-| Week 	| Date	| Main Session 	| Coursera Modules | Project 	|
+| Week 	| Date	| Main Session 	| Coursera Modules | TA Session 	|
 |------|------|------|-----|-----|
 | 11 | 27 Dey - 3 Bahman | Advance Topics in Deep Learning (NLP, CV)	|  	|  	|
 | 12 | 4 - 10 Bahman | Final Project Presentation	|  	| Project Final Report<br>Deadline: 3 Bahman 	|
