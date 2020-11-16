@@ -5,6 +5,8 @@ layout: page
 show_sidebar: false
 ---
 
+{% include notification.html message="َAssignment 1 is released! Check the assignments page." %}
+
 # About This Course
 
 The course is a combination of applied and theoretical aspects of deep learning. In addition to discussing recent state-of-the-art models in both supervised and unsupervised learning, we delve into the details of various network architectures for processing texts and images. Special emphasis will be put on learning how to work with deep learning libraries, particularly Tensorflow 2.0. 
