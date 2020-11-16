@@ -5,7 +5,10 @@ layout: page
 show_sidebar: false
 ---
 
-{% include notification.html message="َAssignment 1 is released! Check the assignments page." %}
+{% include notification.html
+message="َ* First Assignment is released! Check the [assignments page](assignments/)."
+icon="false"
+%}
 
 # About This Course
 
