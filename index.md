@@ -8,9 +8,9 @@ show_sidebar: false
 {% include notification.html
 
 message="َ# Announcements
-* First Assignment is released! Check the [assignments page](assignments/).
-* Resources for TA Sessions are available in [schedule page](schedule/).
-* Main Session slides are now available in [schedule page](schedule/).
+* First Assignment is released! Check the [assignments page](assignments).
+* Resources for TA Sessions are available in [schedule page](schedule).
+* Main Session slides are now available in [schedule page](schedule).
 " 
 icon="false"
 %}
