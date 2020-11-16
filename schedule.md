@@ -10,7 +10,7 @@ show_sidebar: false
 | Week 	| Date	| Main Session 	| Coursera Modules | TA Session 	|
 |------|------|------|-----|-----|
 | 1 | 17 - 23 Aban | Introduction	| Study ML Basics if Needed (non-Coursera)<br>[C1M1](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1): Introduction to Deep Learning (2h) 	| Introduction to [Colab, Numpy](https://github.com/teias-courses/dl99/raw/gh-pages/resources/colab_numpy_intro.ipynb),<br>[Visualization with Matplotlib, other libs](https://github.com/teias-courses/dl99/raw/gh-pages/resources/visualization.ipynb)<br>[Pandas, Scikit-learn](https://github.com/teias-courses/dl99/raw/gh-pages/resources/pandas_sklearn_intro.ipynb) 	|
-| 2 | 24 - 30 Aban | Introduction, [slides (two sessions)](https://github.com/teias-courses/dl99/raw/gh-pages/slides/1-Introduction_to_deep_learning-flipped.pdf)	| [C1M2](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/2): Neural Networks Basics (8h)	| Discussion about ML Basics, C1M1, First Assignment 	|
+| 2 | 24 - 30 Aban | Introduction<br>[slides (two sessions)](https://github.com/teias-courses/dl99/raw/gh-pages/slides/1-Introduction_to_deep_learning-flipped.pdf)	| [C1M2](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/2): Neural Networks Basics (8h)	| Discussion about ML Basics, C1M1, First Assignment 	|
 
 
 # Azar 99
