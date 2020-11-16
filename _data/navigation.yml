@@ -1,7 +1,5 @@
 - name: Schedule
   link: /schedule
-- name: Lectures
-  link: /lectures
 - name: Course Materials
   link: /materials
 - name: Assignments
