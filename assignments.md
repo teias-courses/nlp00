@@ -23,7 +23,7 @@ show_sidebar: false
 
 # Setup
 1. Download the Python Notebook file.
-2. Go to https://colab.research.google.com/
+2. Go to [Google Colab](https://colab.research.google.com/).
 3. Switch to Upload tab, choose the notebook file and click upload.
 4. Now You’re ready to go.
 
