@@ -9,8 +9,11 @@ show_sidebar: false
 
 ## Assignment 1: Introduction to ML tools
 * [Python Notebook](https://github.com/teias-courses/dl99/raw/gh-pages/assignments/Assignment_1.ipynb)
+* Due date: Friday, Azar 7, 23:59
+
+{% comment %} 
 * [HTML Preview](assignments/Assignment_1)
-* Due date: ??
+{% endcomment %}
 
 # Late Policy
 * You have free 8 late days.
