@@ -17,8 +17,8 @@ show_sidebar: false
 | Week 	| Date	| Main Session 	| Coursera Modules | TA Session 	|
 |------|------|------|-----|-----|
 | 3 | 1 - 7 Azar | Deep Learning Intuition<br>[slides](https://github.com/teias-courses/dl99/raw/gh-pages/slides/2-Background-flip.pdf)	| [C1M3](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/3): Shallow Neural Networks (5h)<br>[C1M4](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/4): Deep Neural Networks (5h)	|  	|
-| 4 | 8 - 14 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN) 1<br>| C2M1: Practical Aspects of Deep Learning (8h)<br>C2M2: Optimization Algorithms (5h)	|  	|
-| 5 | 15 - 21 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN) 2<br>[slides](https://github.com/teias-courses/dl99/raw/gh-pages/slides/3-Adversarial_attacks_GANs_VAE_flipped.pdf)	| C2M3: Hyperparameter Tuning, etc. (5h)<br>C3: ML Strategy (5h)	|  	|
+| 4 | 8 - 14 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)<br>| C2M1: Practical Aspects of Deep Learning (8h)<br>C2M2: Optimization Algorithms (5h)	|  	|
+| 5 | 15 - 21 Azar | Adversarial Attacks<br>Generative Adversarial Networks (GAN)<br>[slides (two sessions)](https://github.com/teias-courses/dl99/raw/gh-pages/slides/3-Adversarial_attacks_GANs_VAE_flipped.pdf)	| C2M3: Hyperparameter Tuning, etc. (5h)<br>C3: ML Strategy (5h)	|  	|
 | 6 | 22 - 28 Azar | Project Proposal Presentation	| C4M1: Foundations of Convolutional Neural Networks (6h)<br>C4M2: Deep Convolutional Models: Case Studies (5h) 	| Project Proposal<br>Deadline: 21 Azar 	|
 
 # Dey 99
