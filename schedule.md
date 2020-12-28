@@ -28,11 +28,11 @@ show_sidebar: false
 | 7 | 29 Azar - 5 Dey | Convolutional Neural Networks<br>[slides](https://github.com/teias-courses/dl99/raw/gh-pages/slides/4-Convolutional_neural_networks-flipped.pdf)	| C4M3: Object Detection (4h)<br>C4M4: Special Applications: Face Recognition & Neural Style Transfer (5h) 	|  	|
 | 8 | 6 - 12 Dey | Transfer Learning	| C5M1: Recurrent Neural Networks (6h) 	|  	|
 | 9 | 13 - 19 Dey | Interpretability of Neural Networks	| C5M2: Natural Language Processing & Word Embeddings (4h)<br>C5M3: Sequence Models & Attention Mechanism	(5h) |  	|
-| 10 | 20 - 26 Dey | Deep Reinforcement Learning	| 	| First Progress Report<br>Deadline: 19 Dey 	|
+| 10 | 20 - 26 Dey | Deep Reinforcement Learning	| 	|  	|
 
 # Bahman 99
 
 | Week 	| Date	| Main Session 	| Coursera Modules | TA Session 	|
 |------|------|------|-----|-----|
-| 11 | 27 Dey - 3 Bahman | Advance Topics in Deep Learning (NLP, CV)	|  	|  	|
+| 11 | 27 Dey - 3 Bahman | Advance Topics in Deep Learning (NLP, CV)	|  	| First Progress Report<br>Deadline: 28 Dey 	|
 | 12 | 4 - 10 Bahman | Final Project Presentation	|  	|  	|
