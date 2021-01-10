@@ -36,3 +36,7 @@ show_sidebar: false
 |------|------|------|-----|-----|
 | 11 | 27 Dey - 3 Bahman | Interpretability of Neural Networks	| -- 	| Progress Report: Dey 30th 	|
 | 12 | 4 - 10 Bahman | Transformers	| -- | Pytorch 	|
+| 13 | 11 - 18 Bahman | Deep Reinforcement Learning	| -- | HW Discussion	|
+
+<br>
+<b>Final project report and presentation: 27 Bahman</b>
