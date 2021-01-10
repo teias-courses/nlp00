@@ -34,7 +34,11 @@ No matter how you came with the project idea (whether it’s towards your Master
 Your submission is first examined in terms of an accurate description of the required fields. It will also be judged on creativity in defining the problem and the quality of your write-up.
 
 ## Progress Report
-We will update the guideline for remaining milestones soon...
+Up until this point, you should have implemented a preliminary and simple version of your idea, this implementation doesn’t have to be fully optimized at this point, and it doesn’t have to contain all the features you want yet. You must report these items:
+
+1. **Proposed algorithm**: Describe your proposed algorithm for solving the problem in detail, use a concrete example to show how your model and algorithm work. Your description must be precise and specific (what are your model’s inputs, outputs, variables, etc.).
+2. **Results**: Report the experimental results of using this basic version of implementation and compare the results with the baseline methods. Descriptions should be quantitative (using tables, metrics, plots, etc.). Explain whether you were expecting these results or not.
+3. **Improvement plan**: Explain your plan for improving the results in the future (e.g. you can look for the flaws in the proposed method, try to find a way to fix them, or you can simply search for a more advanced model than what you already have). Note that you must implement these suggestions and put them to use for the final version.
 
 ## Final Report
 
