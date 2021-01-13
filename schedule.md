@@ -28,7 +28,7 @@ show_sidebar: false
 | 7 | 29 Azar - 5 Dey | Convolutional Neural Networks<br>[slides](https://github.com/teias-courses/dl99/raw/gh-pages/slides/4-Convolutional_neural_networks-flipped.pdf)	| C4M3: Object Detection (4h)<br>C4M4: Special Applications: Face Recognition & Neural Style Transfer (5h) 	|  	|
 | 8 | 6 - 12 Dey | Transfer Learning<br>[slides](https://github.com/teias-courses/dl99/raw/gh-pages/slides/5-Transfer_learning-flipped.pdf)	| C5M1: Recurrent Neural Networks (6h) 	|  	|
 | 9 | 13 - 19 Dey | Recurrent Neural Networks	| C5M2: Natural Language Processing & Word Embeddings (4h)<br>C5M3: Sequence Models & Attention Mechanism	(5h) | TensorBoard 	|
-| 10 | 20 - 26 Dey | Recurrent Neural Networks	<br>[slides (two sessions)](https://github.com/teias-courses/dl99/raw/gh-pages/slides/6-Recurrent_neural_networks-flipped.pdf)| --	| Pytorch  	|
+| 10 | 20 - 26 Dey | Recurrent Neural Networks	<br>[slides (two sessions)](https://github.com/teias-courses/dl99/raw/gh-pages/slides/6-Recurrent_neural_networks-flipped.pdf)| --	| Introduction to Pytorch <br>[slides](https://github.com/teias-courses/dl99/raw/gh-pages/resources/pytorch_intro_slides.pdf) <br>[basics notebook](https://github.com/teias-courses/dl99/raw/gh-pages/resources/pytorch_basics.ipynb) <br> [cifar-10 example](https://github.com/teias-courses/dl99/raw/gh-pages/resources/pytorch_cifar10_tutorial.ipynb) 	|
 
 # Bahman 99
 
