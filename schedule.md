@@ -34,8 +34,8 @@ show_sidebar: false
 
 | Week 	| Date	| Main Session 	| Coursera Modules | TA Session 	|
 |------|------|------|-----|-----|
-| 11 | 27 Dey - 3 Bahman | Interpretability of Neural Networks	| -- 	| Progress Report: Dey 30th 	|
-| 12 | 4 - 10 Bahman | Transformers	| -- | Pytorch 	|
+| 11 | 27 Dey - 3 Bahman | Interpretability of Neural Networks	<br>[slides](https://github.com/teias-courses/dl99/raw/gh-pages/slides/7-Interpretability-flipped.pdf) | -- 	| Progress Report: Dey 30th 	|
+| 12 | 4 - 10 Bahman | Transformers	<br>[slides](https://github.com/teias-courses/dl99/raw/gh-pages/slides/7-Transformers_and_BERT-flipped.pdf)| -- | Pytorch 	|
 | 13 | 11 - 18 Bahman | Deep Reinforcement Learning	| -- | HW Discussion	|
 
 <br>
