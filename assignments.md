@@ -21,7 +21,7 @@ show_sidebar: false
 
 ## Assignment 4: Sequence Models
 * [Python Notebook](https://github.com/teias-courses/dl99/raw/gh-pages/assignments/Assignment_4.ipynb)
-* Due date: Wednesday, Bahman 20, 23:59
+* Due date: Monday, Bahman 20, 23:59
 
 {% comment %} 
 * [HTML Preview](assignments/Assignment_1)
