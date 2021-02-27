@@ -16,14 +16,12 @@ icon="false"
 
 # About This Course
 
-The content will be updated soon.
+The content will be updated soon...
 
 # Course Weekly Plan
 
-Flipped style classroom: 
-* Lecture (Sundays)
-* TA Session (Tuesdays)
-* Project Mentorship (Wednesdays)
+The content will be updated soon...
+
 
 <div class="container">
  <br><br>
