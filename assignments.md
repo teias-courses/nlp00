@@ -7,7 +7,7 @@ show_sidebar: false
 
 # Assignments
 
-## Assignment 1: Introduction to ML tools
+## Assignment 1: Word Vectors
 * [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/Assignment_1.ipynb)
 * Due date: Sunday, Esfand 17th, 23:59
 
