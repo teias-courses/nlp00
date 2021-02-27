@@ -9,12 +9,11 @@ show_sidebar: false
 
 ## Mandatory Reading
 
+The content will be updated soon...
 
-<img src="assets/img/book_cover.jpg" height="auto" width="240">
 
-* Ian Goodfellow and Yoshua Bengio and Aaron Courville. [Deep Learning](https://www.deeplearningbook.org), MIT Press.  
-* [The Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera
 
 ## Recommended Reading
 
-Christofer Bishop, Pattern Recognition and Machine Learning, Springer. 
+The content will be updated soon...
+
