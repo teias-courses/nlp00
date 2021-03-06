@@ -11,9 +11,7 @@ show_sidebar: false
 | Week 	| Date	| Topic |
 |------|------|------|
 | 1 | 3 Esfand | Introduction	| 
-| 2 | 5 Esfand | Word representations (Distributional semantics, co-occurrence matrix, dimensionality reduction and SVD, language models)	
-<br> Readings: [cs224n-1](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture01-wordvecs1.pdf)[cs224n-1-notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
-| 
+| 2 | 5 Esfand | Word representations (Distributional semantics, co-occurrence matrix, dimensionality reduction and SVD, language models)	<br> Readings: [cs224n-1](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture01-wordvecs1.pdf)[cs224n-1-notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)| 
 | 3 | 10 Esfand | Word embeddings	(Word2vec, GloVe) 
 <br> Readings: [cs224n-1](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture01-wordvecs1.pdf)[cs224n-1-notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
 | 
