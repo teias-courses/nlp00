@@ -16,6 +16,8 @@ show_sidebar: false
 | 4 | 12 Esfand | Word embeddings (Evaluation, cross-lingual space, ambiguity and sense embeddings)	<br> Readings: [[cs224n-2]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture02-wordvecs2.pdf) [[cs224n-2-notes]]([[cs224n-1-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf))| 
 | 5 | 17 Esfand | Word embeddings (Sub-word embeddings, retrofitting, debiasing) <br> Readings: [[nn4nlp2021]](http://www.phontron.com/class/nn4nlp2021/schedule/wordemb.html)| 
 | 6 | 19 Esfand | Text classification and regression	<br> Readings: [[info256-5]](https://people.ischool.berkeley.edu/~dbamman/anlp19_slides/5_classification.pdf)[[info256-6]](https://people.ischool.berkeley.edu/~dbamman/anlp19_slides/6_regression.pdf)| 
+| 7 | 24 Esfand | Language modeling	(n-gram, probability computation, back-off interpolation, sparsity and smoothing, feedforward NN for LM) <br> Readings: [[cs224n-5]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture05-rnnlm.pdf)[[Voita-LM]](https://lena-voita.github.io/nlp_course/language_modeling.html)
+| 8 | 26 Esfand | Language modeling with RNNs	(backprop through time, text generation, perplexity, text generation, sampling with temprature) <br> Readings: [[cs224n-5]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture05-rnnlm.pdf)[[Voita-LM]](https://lena-voita.github.io/nlp_course/language_modeling.html)
 
 
 
