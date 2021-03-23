@@ -11,6 +11,10 @@ show_sidebar: false
 * [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/Assignment_1.ipynb)
 * Due date: Sunday, Esfand 17th, 23:59
 
+## Assignment 2: NLP with tight hands!
+* [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/Assignment_2.ipynb)
+* Due date: Wednesday, Farvardin 18th, 23:59
+* 
 {% comment %} 
 * [HTML Preview](assignments/Assignment_1)
 {% endcomment %}
