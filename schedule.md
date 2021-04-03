@@ -37,17 +37,17 @@ show_sidebar: false
 |------|------|------|
 | 15 | 5 Ordibehesht | More about Transformers and Pretraining  |
 | 16 | 7 Ordibehesht | *Paper discussion on Transformers* |
-| 17 | 12 Ordibehesht | \*LM-based Word Sense Disambiguation (Rezaee) |
+| 17 | 12 Ordibehesht | \*Isotropicity of Semantic Spaces (Rajaee) |
 | 18 | 19 Ordibehesht | Question Answering |
-| 19 | 21 Ordibehesht | \*Interpretability (Modaressi & Mohebbi) |
+| 19 | 21 Ordibehesht | Neural Language Generation |
 | 20 | 26 Ordibehesht | **Progress Report II** |
-| 21 | 28 Ordibehesht | \*Isotropicity of Semantic Spaces (Rajaee) |
+| 21 | 28 Ordibehesht | \*LM-based Word Sense Disambiguation (Rezaee) |
 
 ## Khordad 00
 
 | Session 	| Date	| Topic |
 |------|------|------|
-| 22 | 2 Khordad | Neural Language Generation |
+| 22 | 2 Khordad | \*Interpretability (Modaressi & Mohebbi) |
 | 23 | 4 Khordad | \*Dialogue (Pourdabiri) |
 | 24 | 9 Khordad | Integrating knowledge in language models |
 | 25 | 11 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
