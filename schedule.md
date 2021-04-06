@@ -24,8 +24,8 @@ show_sidebar: false
 
 | Session 	| Date	| Topic |
 |------|------|------|
-| 9 | 15 Farvardin | Vanishing Gradients, Fancy RNNs, Seq2Seq (LSTMs, BiRNNs, Neural Machine Translation)	 <br> Readings: [[cs224n-6]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture06-fancy-rnn.pdf) [[cs224n-6-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf) |
-| 10 | 17 Farvardin | Machine Translation, Attention, Subword Models <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
+| 9 | 15 Farvardin | Vanishing/exploding gradients and fancy RNNs (LSTMs, bidirectional and stacked RNNs)	 <br> Readings: [[cs224n-6]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture06-fancy-rnn.pdf) [[cs224n-6-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf) |
+| 10 | 17 Farvardin | Machine Translation (SMT, NMT, seq2seq models, beam-search decoding) and attention mechanism <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
 | 11 | 22 Farvardin | *Paper discussion on RNNs* |
 | 12 | 24 Farvardin | Word senses and contextualization |
 | 13 | 29 Farvardin | **Progress Report I** |
