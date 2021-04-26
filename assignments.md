@@ -7,14 +7,18 @@ show_sidebar: false
 
 # Assignments
 
-## Assignment 1: Word Vectors
+## Assignment #1: Word Vectors
 * [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/Assignment_1.ipynb)
 * Due date: Sunday, Esfand 17th, 23:59
 
-## Assignment 2: NLP with tight hands!
+## Assignment #2: NLP with tight hands!
 * [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/NLP_Assignment_2.ipynb)
 * Due date: Wednesday, Farvardin 18th, 23:59
-* 
+
+## Assignment #3: Language Models and Attention
+* [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/NLP_Assignment_3.ipynb)
+* Due date: Thursday, Ordibehesht 23th, 23:59
+
 {% comment %} 
 * [HTML Preview](assignments/Assignment_1)
 {% endcomment %}
