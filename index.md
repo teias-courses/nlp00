@@ -26,7 +26,7 @@ Natural Language Processing (NLP) is one of the main subfields of Artificial Int
  <br><br>
  
  <div class="columns is-multiline">            
-  <div class="column is-4">
+  <div class="column is-desktop is-half-widescreen">
    <h1>
     Course instructor
    </h1>
@@ -41,26 +41,26 @@ Natural Language Processing (NLP) is one of the main subfields of Artificial Int
  
  <div class="columns is-multiline">        
  
-  <div class="column is-6">
+  <div class="column is-desktop is-half-widescreen">
    <h1>
     Teaching Assistants
    </h1>
    <div class="columns is-multiline">
     <div class="column is-3 has-text-centered">
      <img src="assets/img/ali.png" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-4">Ali Modaresi</p>
+     <p class="subtitle is-5">Ali Modaresi</p>
     </div>
     <div class="column is-3 has-text-centered">
      <img src="assets/img/hossein.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-4">Hossein Mohebbi</p>
+     <p class="subtitle is-5">Hossein Mohebbi</p>
     </div>
     <div class="column is-3 has-text-centered">
      <img src="assets/img/kiamehr.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-4">Kiamehr Razaee</p>
+     <p class="subtitle is-5">Kiamehr Razaee</p>
     </div>
     <div class="column is-3 has-text-centered">
      <img src="assets/img/mohsen.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-4">Mohsen Tabasi</p>
+     <p class="subtitle is-5">Mohsen Tabasi</p>
     </div>
    </div>
    </div>
