@@ -39,7 +39,7 @@ Natural Language Processing (NLP) is one of the main subfields of Artificial Int
   </div>
  </div>
  
- <br><br>
+ <br>
  
  <div class="columns is-multiline">        
  
@@ -68,6 +68,6 @@ Natural Language Processing (NLP) is one of the main subfields of Artificial Int
    </div>
    </div>
    
-   <br><br>
+   <br><br><br><br>
  
 </div>
