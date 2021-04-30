@@ -25,21 +25,21 @@ show_sidebar: false
 | Session 	| Date	| Topic |
 |------|------|------|
 | 9 | 15 Farvardin | Vanishing/exploding gradients and fancy RNNs (LSTMs, bidirectional and stacked RNNs)	 <br> Readings: [[cs224n-6]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture06-fancy-rnn.pdf) [[cs224n-6-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf) |
-| 10 | 17 Farvardin | Machine Translation (SMT, NMT, seq2seq models, beam-search decoding, evaluation) and attention mechanism <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
+| 10 | 17 Farvardin | Machine Translation (SMT, NMT, seq2seq models, beam-search decoding, evaluation) <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
 | 11 | 22 Farvardin | *Paper discussion on RNNs* |
-| 12 | 24 Farvardin | Word senses and contextualization |
+| 12 | 24 Farvardin | Attention mechanism <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
 | 13 | 29 Farvardin | **Progress Report I** |
-| 14 | 31 Farvardin | Transformers |
+| 14 | 31 Farvardin | Word senses and contextualization |
 
 ## Ordibehesht 00
 
 | Session 	| Date	| Topic |
 |------|------|------|
-| 15 | 5 Ordibehesht | More about Transformers and Pretraining  |
-| 16 | 7 Ordibehesht | *Paper discussion on Transformers* |
-| 17 | 12 Ordibehesht | \*Isotropicity of Semantic Spaces (Rajaee) |
-| 18 | 19 Ordibehesht | Question Answering |
-| 19 | 21 Ordibehesht | Neural Language Generation |
+| 15 | 5 Ordibehesht | Transformers  |
+| 16 | 7 Ordibehesht | More about Transformers and Pretraining  |
+| 17 | 12 Ordibehesht | *Paper discussion on Transformers* |
+| 18 | 19 Ordibehesht | \*Isotropicity of Semantic Spaces (Rajaee) |
+| 19 | 21 Ordibehesht | Question Answering |
 | 20 | 26 Ordibehesht | **Progress Report II** |
 | 21 | 28 Ordibehesht | \*LM-based Word Sense Disambiguation (Rezaee) |
 
@@ -52,7 +52,8 @@ show_sidebar: false
 | 24 | 9 Khordad | Integrating knowledge in language models |
 | 25 | 11 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
 | 26 | 16 Khordad | *Paper discussion* |
-| 27 | 18 Khordad | **Progress Report III** |
+| 27 | 18 Ordibehesht | Neural Language Generation |
+| 28 | 23 Khordad | **Progress Report III** |
 
 
 
