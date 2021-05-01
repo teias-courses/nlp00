@@ -35,8 +35,8 @@ show_sidebar: false
 
 | Session 	| Date	| Topic |
 |------|------|------|
-| 15 | 5 Ordibehesht | Transformers  |
-| 16 | 7 Ordibehesht | More about Transformers and Pretraining  |
+| 15 | 5 Ordibehesht | Transformers  <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/8-Transformers_and_BERT-nlp99.pdf) [[cs224n-9]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture09-transformers.pdf) |
+| 16 | 7 Ordibehesht | More about Transformers and Pretraining  <br> Readings: [[cs224n-10]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture10-pretraining.pdf) |
 | 17 | 12 Ordibehesht | *Paper discussion on Transformers* |
 | 18 | 19 Ordibehesht | \*Isotropicity of Semantic Spaces (Rajaee) |
 | 19 | 21 Ordibehesht | Question Answering |
