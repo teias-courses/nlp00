@@ -38,21 +38,21 @@ show_sidebar: false
 | 15 | 5 Ordibehesht | Transformers  <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/8-Transformers_and_BERT-nlp99.pdf) [[cs224n-9]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture09-transformers.pdf) |
 | 16 | 7 Ordibehesht | More about Transformers and Pretraining  <br> Readings: [[cs224n-10]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture10-pretraining.pdf) |
 | 17 | 12 Ordibehesht | *Paper discussion on Transformers* |
-| 18 | 19 Ordibehesht | \*Isotropicity of Semantic Spaces (Rajaee) |
-| 19 | 21 Ordibehesht | Question Answering |
+| 18 | 19 Ordibehesht | \*Isotropicity of Semantic Spaces (Rajaee) <br> [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/Isotropy-Sara_Rajaee.pdf) |
+| 19 | 21 Ordibehesht | Question Answering <br> Readings: [[cs224n-11]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture11-qa-v2.pdf) |
 | 20 | 26 Ordibehesht | **Progress Report II** |
-| 21 | 28 Ordibehesht | \*LM-based Word Sense Disambiguation (Rezaee) |
+| 21 | 28 Ordibehesht | \*LM-based Word Sense Disambiguation (Rezaee) <br> [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/WSD-Kiamehr_Rezaee.pdf) |
 
 ## Khordad 00
 
 | Session 	| Date	| Topic |
 |------|------|------|
-| 22 | 2 Khordad | \*Interpretability (Modaressi & Mohebbi) |
+| 22 | 2 Khordad | \*Interpretability (Modaressi & Mohebbi) <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/Interpretability-Modarressi-Mohebbi.pdf) |
 | 23 | 4 Khordad | \*Dialogue (Pourdabiri) |
 | 24 | 9 Khordad | Integrating knowledge in language models |
 | 25 | 11 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
 | 26 | 16 Khordad | *Paper discussion* |
-| 27 | 18 Ordibehesht | Neural Language Generation |
+| 27 | 18 Khordad | Neural Language Generation |
 | 28 | 23 Khordad | **Progress Report III** |
 
 
