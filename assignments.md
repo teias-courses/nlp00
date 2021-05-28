@@ -19,6 +19,10 @@ show_sidebar: false
 * [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/NLP_Assignment_3.ipynb)
 * Due date: Thursday, Ordibehesht 23th, 23:59
 
+## Assignment #4: Transformers to the Rescue!
+* [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/NLP_Assignment_4.ipynb)
+* Due date: Thursday, Khordad 18th, 23:59
+
 {% comment %} 
 * [HTML Preview](assignments/Assignment_1)
 {% endcomment %}
