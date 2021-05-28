@@ -21,7 +21,7 @@ show_sidebar: false
 
 ## Assignment #4: Transformers to the Rescue!
 * [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/NLP_Assignment_4.ipynb)
-* Due date: Thursday, Khordad 18th, 23:59
+* Due date: Tuesday, Khordad 18th, 23:59
 
 {% comment %} 
 * [HTML Preview](assignments/Assignment_1)
