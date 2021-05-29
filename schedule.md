@@ -29,7 +29,7 @@ show_sidebar: false
 | 11 | 22 Farvardin | *Paper discussion on RNNs* |
 | 12 | 24 Farvardin | Attention mechanism <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
 | 13 | 29 Farvardin | **Progress Report I** |
-| 14 | 31 Farvardin | Word senses and contextualization |
+| 14 | 31 Farvardin | Word senses and contextualization (_skipped_) |
 
 ## Ordibehesht 00
 
