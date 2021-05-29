@@ -51,8 +51,9 @@ show_sidebar: false
 | 23 | 4 Khordad | \*Dialogue (Pourdabiri) |
 | 24 | 9 Khordad | Integrating knowledge in language models |
 | 25 | 11 Khordad | Neural Language Generation |
-| 26 | 18 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
-| 27 | 23 Khordad | **Progress Report III** |
+| 26 | 18 Khordad | *Paper discussion on knowledge-enhanced models*  |
+| 27 | 23 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
+| 28 | 25 Khordad | **Progress Report III** |
 
 
 
