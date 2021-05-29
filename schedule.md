@@ -50,10 +50,9 @@ show_sidebar: false
 | 22 | 2 Khordad | \*Interpretability (Modaressi & Mohebbi) <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/Interpretability-Modarressi-Mohebbi.pdf) |
 | 23 | 4 Khordad | \*Dialogue (Pourdabiri) |
 | 24 | 9 Khordad | Integrating knowledge in language models |
-| 25 | 11 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
-| 26 | 16 Khordad | *Paper discussion* |
-| 27 | 18 Khordad | Neural Language Generation |
-| 28 | 23 Khordad | **Progress Report III** |
+| 25 | 11 Khordad | Neural Language Generation |
+| 26 | 18 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
+| 27 | 23 Khordad | **Progress Report III** |
 
 
 
