@@ -27,7 +27,7 @@ show_sidebar: false
 | 9 | 15 Farvardin | Vanishing/exploding gradients and fancy RNNs (LSTMs, bidirectional and stacked RNNs)	 <br> Readings: [[cs224n-6]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture06-fancy-rnn.pdf) [[cs224n-6-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf) |
 | 10 | 17 Farvardin | Machine Translation (SMT, NMT, seq2seq models, beam-search decoding, evaluation) <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
 | 11 | 22 Farvardin | *Paper discussion on RNNs* |
-| 12 | 24 Farvardin | Attention mechanism <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
+| 12 | 24 Farvardin | Attention mechanism (seq2seq attention, attention variants, hierarchical attention networks) <br> Readings: [[cs224n-7]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture07-nmt.pdf) [[cs224n-7-notes]](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf) |
 | 13 | 29 Farvardin | **Progress Report I** |
 | 14 | 31 Farvardin | Word senses and contextualization (_skipped_) |
 
@@ -35,11 +35,11 @@ show_sidebar: false
 
 | Session 	| Date	| Topic |
 |------|------|------|
-| 15 | 5 Ordibehesht | Transformers  <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/8-Transformers_and_BERT-nlp99.pdf) [[cs224n-9]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture09-transformers.pdf) |
-| 16 | 7 Ordibehesht | More about Transformers and Pretraining  <br> Readings: [[cs224n-10]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture10-pretraining.pdf) |
+| 15 | 5 Ordibehesht | Transformers  (BERT model, self-attention, multi-head, positional encoding, contextualised embeddings, derivatives of BERT)<br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/8-Transformers_and_BERT-nlp99.pdf) [[cs224n-9]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture09-transformers.pdf) |
+| 16 | 7 Ordibehesht | More about Transformers and Pretraining (subwords, byte-pair encoding, pretrain/finetune, architecture types: decoders, encoders, and encoder-decoders) <br> Readings: [[cs224n-10]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture10-pretraining.pdf) |
 | 17 | 12 Ordibehesht | *Paper discussion on Transformers* |
 | 18 | 19 Ordibehesht | \*Isotropicity of Semantic Spaces (Rajaee) <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/Isotropy-Sara_Rajaee.pdf) |
-| 19 | 21 Ordibehesht | Question Answering <br> Readings: [[cs224n-11]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture11-qa-v2.pdf) |
+| 19 | 21 Ordibehesht | Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF, open-domain QA) <br> Readings: [[cs224n-11]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture11-qa-v2.pdf) |
 | 20 | 26 Ordibehesht | **Progress Report II** |
 | 21 | 28 Ordibehesht | \*LM-based Word Sense Disambiguation (Rezaee) <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/WSD-Kiamehr_Rezaee.pdf) |
 
@@ -49,8 +49,8 @@ show_sidebar: false
 |------|------|------|
 | 22 | 2 Khordad | \*Interpretability (Modaressi & Mohebbi) <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/Interpretability-Modarressi-Mohebbi.pdf) |
 | 23 | 4 Khordad | \*Dialogue (Pourdabiri) <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/Dialogue_Systems-Pourdabiri.pdf) |
-| 24 | 9 Khordad | Integrating knowledge in language models <br> Readings: [[cs224n-15]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture15-lm.pdf) |
-| 25 | 11 Khordad | Neural Language Generation <br> Readings: [[cs224n-12]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture12-generation.pdf) |
+| 24 | 9 Khordad | Integrating knowledge in language models (knowledge-aware LMs, entity embedding, ERNIE, memory-based models, KGLM, kNN-LM, modified training, WKLM, evaluation, prompting) <br> Readings: [[cs224n-15]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture15-lm.pdf) |
+| 25 | 11 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns) <br> Readings: [[cs224n-12]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture12-generation.pdf) |
 | 26 | 18 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
 | 27 | 23 Khordad | *Paper discussion on knowledge-enhanced models*  |
 | 28 | 25 Khordad | **Progress Report III** |
