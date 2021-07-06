@@ -51,7 +51,7 @@ show_sidebar: false
 | 23 | 4 Khordad | \*Dialogue (Pourdabiri) <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/Dialogue_Systems-Pourdabiri.pdf) |
 | 24 | 9 Khordad | Integrating knowledge in language models (knowledge-aware LMs, entity embedding, ERNIE, memory-based models, KGLM, kNN-LM, modified training, WKLM, evaluation, prompting) <br> Readings: [[cs224n-15]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture15-lm.pdf) |
 | 25 | 11 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns) <br> Readings: [[cs224n-12]](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture12-generation.pdf) |
-| 26 | 18 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) |
+| 26 | 18 Khordad | \*Zero-shot applictions of Cloze test (Tabasi) <br> Readings: [[slides]](https://github.com/teias-courses/nlp99/blob/gh-pages/slides/Tabasi_fewshot.pdf) |
 | 27 | 23 Khordad | *Paper discussion on knowledge-enhanced models*  |
 | 28 | 25 Khordad | **Progress Report III** |
 
