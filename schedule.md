@@ -40,7 +40,7 @@ show_sidebar: false
 | 16 | 5 Ordibehesht | \*Ethical Considerations and Bias in NLP (Zakizadeh & Eskanadari) |
 | 17 | 10 Ordibehesht | Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF, open-domain QA) |
 | 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) |
-| 19 | 21 Ordibehesht | Modal analysis and explanation |
+| 19 | 21 Ordibehesht | Model analysis and explanation |
 | 20 | 24 Ordibehesht | **Progress Report I** |
 | 21 | 26 Ordibehesht | Few-shot, Zero-shot, and Prompt-based learning |
 | 22 | 31 Ordibehesht | \*Zero-shot applictions of Cloze test (Tabasi)  |
