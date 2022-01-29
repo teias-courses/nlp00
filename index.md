@@ -1,18 +1,18 @@
 ---
 title: Natural Language Processing
-subtitle: Khatam University, Winter 1399
+subtitle: Khatam University, Winter 1400
 layout: page
 show_sidebar: false
 ---
 
-{% include notification.html
+<!-- {% include notification.html
 
 message="
 ### Announcements
 * 4th Assignment is released!
 " 
 icon="false"
-%}
+%} -->
 
 # About This Course
 
@@ -46,20 +46,12 @@ Natural Language Processing (NLP) is one of the main subfields of Artificial Int
    </h1>
    <div class="columns is-multiline">
     <div class="column is-3 has-text-centered">
-     <img src="assets/img/ali.png" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Ali Modarressi</p>
+     <img src="assets/img/kave.jpg" height="auto" width="96" style="border-radius:100%">
+     <p class="subtitle is-5">Kave Eskandari</p>
     </div>
     <div class="column is-3 has-text-centered">
-     <img src="assets/img/hossein.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Hosein Mohebbi</p>
-    </div>
-    <div class="column is-3 has-text-centered">
-     <img src="assets/img/kiamehr.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Kiamehr Rezaee</p>
-    </div>
-    <div class="column is-3 has-text-centered">
-     <img src="assets/img/mohsen.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Mohsen Tabasi</p>
+     <img src="assets/img/mahdi.jpg" height="auto" width="96" style="border-radius:100%">
+     <p class="subtitle is-5">Mahdi Zakizadeh</p>
     </div>
    </div>
    </div>
