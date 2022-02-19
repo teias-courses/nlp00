@@ -11,8 +11,8 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 1 | 23 Bahman | Introduction	| |
-| 2 | 25 Bahman | Semantic representation | |
+| 1 | 23 Bahman | Introduction	| [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C1-Introduction.pdf) |
+| 2 | 25 Bahman | Semantic representation | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C2-Semantic_Representation.pdf) (Classes 2-5) |
 | 3 | 30 Bahman | Word embeddings	(Word2vec) | |
 | 4 | 2 Esfand  | Word embeddings (Evaluation, cross-lingual space, ambiguity and sense embeddings)	| |
 | 5 | 7 Esfand  | Word embeddings (Sub-word embeddings, retrofitting, debiasing) | Deep Learning Quiz |
