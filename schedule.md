@@ -28,7 +28,7 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 11 | 15 Farvardin | Transformers (BERT model, self-attention, multi-head, positional encoding, contextualised embeddings) ||
-| 12 | 20 Farvardin | More about Transformers and Pretraining (subwords, byte-pair encoding, pretrain/finetune) ||
+| 12 | 20 Farvardin | More about Transformers and Pretraining (subwords, byte-pair encoding, pretrain/finetune) | Midterm exam |
 | 13 | 22 Farvardin | *Pytorch tutorial* ||
 | 14 | 27 Farvardin | Transformers: derivatives of BERT and architecture types (decoders, encoders, and encoder-decoders) | HW#2 |
 | 15 | 29 Farvardin | *Pytorch tutorial* | Project Proposal |
