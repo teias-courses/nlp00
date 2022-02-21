@@ -14,8 +14,8 @@ show_sidebar: false
 | 1 | 23 Bahman | Introduction	| [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C1-Introduction.pdf) |
 | 2 | 25 Bahman | Semantic representation | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C2-Semantic_Representation.pdf) (Classes 2-5) |
 | 3 | 30 Bahman | Word embeddings	(Word2vec) | |
-| 4 | 2 Esfand  | Word embeddings (Evaluation, cross-lingual space, ambiguity and sense embeddings)	| |
-| 5 | 7 Esfand  | Word embeddings (Sub-word embeddings, retrofitting, debiasing) | Deep Learning Quiz |
+| 4 | 2 Esfand  | Word embeddings (Evaluation, cross-lingual space, ambiguity and sense embeddings, sub-word embeddings, retrofitting, bias)	| |
+| 5 | 7 Esfand  | Neural Networks review | Deep Learning Quiz |
 | 6 | 9 Esfand  | *Pytorch tutorial*| HW#1 |
 | 7 | 14 Esfand | Language modeling	(n-gram, probability computation, feedforward NN for LM) ||
 | 8 | 16 Esfand | Language modeling with RNNs	(backprop through time, text generation, perplexity) ||
