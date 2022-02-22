@@ -15,20 +15,20 @@ show_sidebar: false
 | 2 | 25 Bahman | Semantic representation | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C2-Semantic_Representation.pdf) (Classes 2-5) |
 | 3 | 30 Bahman | Word embeddings	(Word2vec) | |
 | 4 | 2 Esfand  | Word embeddings (Evaluation, cross-lingual space, ambiguity and sense embeddings, sub-word embeddings, retrofitting, bias)	| |
-| 5 | 7 Esfand  | Neural Networks review | Deep Learning Quiz |
+| 5 | 7 Esfand  | Language modeling	(n-gram, probability computation, feedforward NN for LM) | Deep Learning Quiz |
 | 6 | 9 Esfand  | *Pytorch tutorial*| HW#1 |
-| 7 | 14 Esfand | Language modeling	(n-gram, probability computation, feedforward NN for LM) ||
-| 8 | 16 Esfand | Language modeling with RNNs	(backprop through time, text generation, perplexity) ||
-| 9 | 21 Esfand | Vanishing gradients and fancy RNNs (LSTMs, bidirectional and stacked RNNs) ||
-| 10 | 23 Esfand | Attention mechanism (seq2seq attention, attention variants, hierarchical attention networks) ||
+| 7 | 14 Esfand | Language modeling with RNNs	(backprop through time, text generation, perplexity) ||
+| 8 | 16 Esfand | Vanishing gradients and fancy RNNs (LSTMs, bidirectional and stacked RNNs) ||
+| 9 | 21 Esfand | Attention mechanism (seq2seq attention, attention variants, hierarchical attention networks) ||
+| 10 | 23 Esfand | Transformers (BERT model, self-attention, multi-head, positional encoding, contextualised embeddings) ||
 
 
 ## Farvardin 1401
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 11 | 15 Farvardin | Transformers (BERT model, self-attention, multi-head, positional encoding, contextualised embeddings) ||
-| 12 | 20 Farvardin | More about Transformers and Pretraining (subwords, byte-pair encoding, pretrain/finetune) | Midterm exam |
+| 11 | 15 Farvardin | More about Transformers and Pretraining (subwords, byte-pair encoding, pretrain/finetune) ||
+| 12 | 20 Farvardin | *Midterm exam* ||
 | 13 | 22 Farvardin | *Pytorch tutorial* ||
 | 14 | 27 Farvardin | Transformers: derivatives of BERT and architecture types (decoders, encoders, and encoder-decoders) | HW#2 |
 | 15 | 29 Farvardin | *Pytorch tutorial* | Project Proposal |
