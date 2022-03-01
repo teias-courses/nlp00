@@ -16,7 +16,7 @@ show_sidebar: false
 | 3 | 30 Bahman | Word embeddings	(Word2vec) | |
 | 4 | 2 Esfand  | Word embeddings (Evaluation, cross-lingual space, ambiguity and sense embeddings, sub-word embeddings, retrofitting, bias)	| |
 | 5 | 7 Esfand  | Language modeling	(n-gram, probability computation, feedforward NN for LM) | Deep Learning Quiz |
-| 6 | 9 Esfand  | *Pytorch tutorial*| HW#1 |
+| 6 | 9 Esfand  | *Pytorch tutorial*| HW#1 <br /> [[notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/PyTorch_Tutorial_1.ipynb) |
 | 7 | 14 Esfand | Language modeling with RNNs	(backprop through time, text generation, perplexity) ||
 | 8 | 16 Esfand | Vanishing gradients and fancy RNNs (LSTMs, bidirectional and stacked RNNs) ||
 | 9 | 21 Esfand | Attention mechanism (seq2seq attention, attention variants, hierarchical attention networks) ||
