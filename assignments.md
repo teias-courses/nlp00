@@ -8,8 +8,8 @@ show_sidebar: false
 # Assignments
 
 ## Assignment #1
-* Python Notebook (TBD)
-* Due date: Sunday, Esfand 14th, 23:59
+* [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/NLP_Assignment_1.ipynb)
+* Due date: Tuesday, Esfand 24th, 23:59
 
 ## Assignment #2
 * Python Notebook (TBD)
