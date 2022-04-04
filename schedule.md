@@ -20,17 +20,17 @@ show_sidebar: false
 | 7 | 14 Esfand | Language modeling with RNNs	(backprop through time, text generation, perplexity) |[[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C3-RNNS_and_LMs.pdf) (classes 7-9)|
 | 8 | 16 Esfand | Vanishing gradients and fancy RNNs (LSTMs, bidirectional and stacked RNNs) ||
 | 9 | 21 Esfand | Attention mechanism (seq2seq attention, attention variants) ||
-| 10 | 23 Esfand | Transformers (BERT model, self-attention, multi-head, positional encoding, contextualised embeddings) ||
+| 10 | 23 Esfand | Transformers (self-attention, multi-head, positional encoding) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C4-Transformers_and_BERT.pdf) (Classes 10-11)|
 
 
 ## Farvardin 1401
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 11 | 15 Farvardin | More about Transformers and Pretraining (subwords, byte-pair encoding, pretrain/finetune) ||
+| 11 | 15 Farvardin | More about Transformers (contextualised embeddings, MLM, and BERT)||
 | 12 | 20 Farvardin | *Midterm exam* ||
 | 13 | 22 Farvardin | *Pytorch tutorial* ||
-| 14 | 27 Farvardin | Transformers: derivatives of BERT and architecture types (decoders, encoders, and encoder-decoders) | HW#2 |
+| 14 | 27 Farvardin | Transformers: derivatives of BERT and architecture types (subwords, pretrain/finetune, decoders, encoders, and encoder-decoders) | HW#2 |
 | 15 | 29 Farvardin | *Pytorch tutorial* | Project Proposal |
 
 ## Ordibehesht 1401
