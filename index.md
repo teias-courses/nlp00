@@ -5,14 +5,14 @@ layout: page
 show_sidebar: false
 ---
 
-<!-- {% include notification.html
+{% include notification.html
 
 message="
 ### Announcements
-* 4th Assignment is released!
+* The project proposal deadline is 27 Farvardin. Read the proposal document guideline at [project guideline](guideline).
 " 
 icon="false"
-%} -->
+%}
 
 # About This Course
 

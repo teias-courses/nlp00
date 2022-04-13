@@ -30,8 +30,8 @@ show_sidebar: false
 | 11 | 15 Farvardin | More about Transformers (contextualised embeddings, MLM, and BERT, and pretrain/finetune)||
 | 12 | 20 Farvardin | Transformers: derivatives of BERT and architecture types (subwords and tokenization, decoders, encoders, and encoder-decoders) ||
 | 13 | 22 Farvardin | *Midterm exam* ||
-| 14 | 27 Farvardin | *Pytorch tutorial* | HW#2 |
-| 15 | 29 Farvardin | *Pytorch tutorial* | Project Proposal |
+| 14 | 27 Farvardin | *Pytorch tutorial* | HW#2 <br /> Project Proposal |
+| 15 | 29 Farvardin | *Pytorch tutorial* | |
 
 ## Ordibehesht 1401
 
