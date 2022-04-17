@@ -9,7 +9,8 @@ show_sidebar: false
 
 message="
 ### Announcements
-* The project proposal deadline is 27 Farvardin. Read the proposal document guideline at [project guideline](guideline).
+* The project deadline has been extended until 29 Farvardin. Read the proposal document guideline at [project guideline](guideline).
+* Resources for TA Sessions are available in [schedule page](schedule).
 " 
 icon="false"
 %}
