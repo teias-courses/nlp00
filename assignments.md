@@ -12,17 +12,17 @@ show_sidebar: false
 * Due date: Tuesday, Esfand 24th, 23:59
 
 ## Assignment #2
-* Python Notebook (TBD)
-* Due date: Wednesday, Farvardin 27th, 23:59
+* [Python Notebook](https://github.com/teias-courses/nlp00/raw/gh-pages/assignments/NLP_Assignment_2.ipynb)
+* Due date: Wednesday, Ordibehesht 8th, 23:59
 
 ## Assignment #3
 * Python Notebook (TBD)
-* Due date: Thursday, Ordibehesht 17th, 23:59
+* Release date: Thursday, Ordibehesht 17th, 23:59
 
 ## Assignment #4
 <!-- * [Python Notebook](https://github.com/teias-courses/nlp99/raw/gh-pages/assignments/NLP_Assignment_4.ipynb) -->
 * Python Notebook (TBD)
-* Due date: Tuesday, Khordad 7th, 23:59
+* Release date: Tuesday, Khordad 7th, 23:59
 
 {% comment %} 
 * [HTML Preview](assignments/Assignment_1)
