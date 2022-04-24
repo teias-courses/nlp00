@@ -27,8 +27,8 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 11 | 15 Farvardin | More about Transformers (contextualised embeddings, MLM, and BERT, and pretrain/finetune)||
-| 12 | 20 Farvardin | Transformers: derivatives of BERT and architecture types (subwords and tokenization, decoders, encoders, and encoder-decoders) ||
+| 11 | 15 Farvardin | More about Transformers (contextualised embeddings, MLM, and BERT, and pretrain/finetune)| |
+| 12 | 20 Farvardin | Transformers: derivatives of BERT and architecture types (subwords and tokenization, decoders, encoders, and encoder-decoders) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C5-More_About_Transformers.pdf)|
 | 13 | 22 Farvardin | *Midterm exam* ||
 | 14 | 27 Farvardin | *Pytorch tutorial* | HW#2 <br /> [[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_2.ipynb) |
 | 15 | 29 Farvardin | *Pytorch tutorial* | Project Proposal <br /> [[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_3.ipynb) |
@@ -37,7 +37,7 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 16 | 5 Ordibehesht | Multilingual Learning ||
+| 16 | 5 Ordibehesht | Multilingual Learning | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C6-Multilingual_Learning.pdf)|
 | 17 | 10 Ordibehesht | Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF, open-domain QA) ||
 | 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) | HW#3 |
 | 19 | 21 Ordibehesht | Model analysis and explanation ||
