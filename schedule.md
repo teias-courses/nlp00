@@ -37,7 +37,7 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 16 | 5 Ordibehesht | Multilingual Learning | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C6-Multilingual_Learning.pdf)|
+| 16 | 5 Ordibehesht | Multilingual Learning (Data balancing, adapters and MAD-X, TLM, cross-lingual transfer learning, zero-shot, and active learning) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C6-Multilingual_Learning.pdf)|
 | 17 | 10 Ordibehesht |  Project Proposal ||
 | 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) | HW#3 |
 | 19 | 21 Ordibehesht | Model analysis and explanation ||
