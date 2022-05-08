@@ -51,7 +51,7 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 23 | 2 Khordad | \*Ethical Considerations and Bias in NLP (Zakizadeh & Eskanadari) ||
-| 24 | 7 Khordad | \*Interpretability (Modaressi & Mohebbi) ||
-| 25 | 9 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns) | HW#4 |
-| 26 | 16 Khordad | Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF, open-domain QA) ||
+| 24 | 7 Khordad | Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF, open-domain QA) ||
+| 25 | 9 Khordad | \*Interpretability (Modaressi & Mohebbi)| HW#4 |
+| 26 | 16 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns)  ||
 | 27 | 21 Khordad | **Progress Report II** ||
