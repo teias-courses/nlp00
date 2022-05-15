@@ -27,8 +27,8 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 11 | 15 Farvardin | More about Transformers (contextualised embeddings, MLM, and BERT, and pretrain/finetune)||
-| 12 | 20 Farvardin | Transformers: derivatives of BERT and architecture types (subwords and tokenization, decoders, encoders, and encoder-decoders) ||
+| 11 | 15 Farvardin | More about Transformers (contextualised embeddings, MLM, and BERT, and pretrain/finetune)| |
+| 12 | 20 Farvardin | Transformers: derivatives of BERT and architecture types (subwords and tokenization, decoders, encoders, and encoder-decoders) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C5-More_About_Transformers.pdf)|
 | 13 | 22 Farvardin | *Midterm exam* ||
 | 14 | 27 Farvardin | *Pytorch tutorial* | HW#2 <br /> [[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_2.ipynb) |
 | 15 | 29 Farvardin | *Pytorch tutorial* | Project Proposal <br /> [[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_3.ipynb) |
@@ -37,12 +37,12 @@ show_sidebar: false
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 16 | 5 Ordibehesht | Multilingual Learning ||
-| 17 | 10 Ordibehesht | Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF, open-domain QA) ||
+| 16 | 5 Ordibehesht | Multilingual Learning (Data balancing) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C6-Multilingual_Learning.pdf) (classes 16 & 19)|
+| 17 | 10 Ordibehesht |  Project Proposal ||
 | 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) | HW#3 |
-| 19 | 21 Ordibehesht | Model analysis and explanation ||
-| 20 | 24 Ordibehesht | **Progress Report I** ||
-| 21 | 26 Ordibehesht | Integrating knowledge in language models (knowledge-aware LMs, entity embedding, ERNIE, memory-based models, KGLM, kNN-LM, modified training, WKLM, evaluation, prompting) ||
+| 19 | 19 Ordibehesht |  Multilingual Learning (Adapters and MAD-X, TLM, cross-lingual transfer learning, zero-shot, and active learning) ||
+| 20 | 24 Ordibehesht |  Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF) ||
+| 21 | 26 Ordibehesht | **Progress Report I** ||
 | 22 | 31 Ordibehesht | \* Few-shot, Zero-shot, and Prompt-based learning (Mohsen Tabasi)  ||
 
 
@@ -51,6 +51,7 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 23 | 2 Khordad | \*Ethical Considerations and Bias in NLP (Zakizadeh & Eskanadari) ||
-| 24 | 7 Khordad | \*Interpretability (Modaressi & Mohebbi) ||
-| 25 | 9 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns) | HW#4 |
-| 26 | 18 Khordad | **Progress Report II** ||
+| 24 | 7 Khordad | Integrating knowledge in language models (knowledge-aware LMs, entity embedding, ERNIE, memory-based models, KGLM, kNN-LM, modified training, WKLM, evaluation, prompting) ||
+| 25 | 9 Khordad | \*Interpretability (Modaressi & Mohebbi)| HW#4 |
+| 26 | 16 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns)  ||
+| 27 | 21 Khordad | **Progress Report II** ||
