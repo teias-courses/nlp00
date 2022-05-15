@@ -9,8 +9,7 @@ show_sidebar: false
 
 message="
 ### Announcements
-* The project deadline has been extended until 29 Farvardin. Read the proposal document guideline at [project guideline](guideline).
-* Resources for TA Sessions are available in [schedule page](schedule).
+* New assignment release. Check out [assignments page](assignments).
 " 
 icon="false"
 %}
