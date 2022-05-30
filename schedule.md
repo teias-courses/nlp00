@@ -41,7 +41,7 @@ show_sidebar: false
 | 17 | 10 Ordibehesht |  Project Proposal ||
 | 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) | HW#3 |
 | 19 | 19 Ordibehesht |  Multilingual Learning (Adapters and MAD-X, TLM, cross-lingual transfer learning, zero-shot, and active learning) ||
-| 20 | 24 Ordibehesht |  Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF) ||
+| 20 | 24 Ordibehesht |  Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF)  [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C7-Question_Answering.pdf) ||
 | 21 | 26 Ordibehesht | **Progress Report I** ||
 | 22 | 31 Ordibehesht | \* Few-shot, Zero-shot, and Prompt-based learning (Mohsen Tabasi)  ||
 
@@ -51,7 +51,7 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 23 | 2 Khordad | \*Ethical Considerations and Bias in NLP (Zakizadeh & Eskanadari) ||
-| 24 | 7 Khordad | Integrating knowledge in language models (knowledge-aware LMs, entity embedding, ERNIE, memory-based models, KGLM, kNN-LM, modified training, WKLM, evaluation, prompting) ||
+| 24 | 7 Khordad | _Skipped_ ||
 | 25 | 9 Khordad | \*Interpretability (Modaressi & Mohebbi)| HW#4 |
 | 26 | 16 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns)  ||
 | 27 | 21 Khordad | **Progress Report II** ||
