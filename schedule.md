@@ -52,6 +52,6 @@ show_sidebar: false
 |------|------|------|------|
 | 23 | 2 Khordad | \*Ethical Considerations and Bias in NLP (Mahdi Zakizadeh & Kaveh Eskanadari) ||
 | 24 | 7 Khordad | _Skipped_ ||
-| 25 | 9 Khordad | \*Interpretability (Ali Modaressi & Hosein Mohebbi)| HW#4 |
+| 25 | 9 Khordad | \*Interpretability (Ali Modaressi & Hosein Mohebbi)| HW#4 <br /> [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Interpretability.pdf)|
 | 26 | 16 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns)  ||
 | 27 | 21 Khordad | **Progress Report II** ||
