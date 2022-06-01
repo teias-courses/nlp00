@@ -39,7 +39,7 @@ show_sidebar: false
 |------|------|------|------|
 | 16 | 5 Ordibehesht | Multilingual Learning (Data balancing) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C6-Multilingual_Learning.pdf) (classes 16 & 19)|
 | 17 | 10 Ordibehesht |  Project Proposal ||
-| 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) | HW#3 |
+| 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) | HW#3 <br/> [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Isotropy.pdf) |
 | 19 | 19 Ordibehesht |  Multilingual Learning (Adapters and MAD-X, TLM, cross-lingual transfer learning, zero-shot, and active learning) ||
 | 20 | 24 Ordibehesht |  Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF)  | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C7-Question_Answering.pdf) |
 | 21 | 26 Ordibehesht | **Progress Report I** ||
