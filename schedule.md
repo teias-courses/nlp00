@@ -43,7 +43,7 @@ show_sidebar: false
 | 19 | 19 Ordibehesht |  Multilingual Learning (Adapters and MAD-X, TLM, cross-lingual transfer learning, zero-shot, and active learning) ||
 | 20 | 24 Ordibehesht |  Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF)  | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C7-Question_Answering.pdf) |
 | 21 | 26 Ordibehesht | **Progress Report I** ||
-| 22 | 31 Ordibehesht | \* Few-shot, Zero-shot, and Prompt-based learning (Mohsen Tabasi)  ||
+| 22 | 31 Ordibehesht | \* Few-shot, Zero-shot, and Prompt-based learning (Mohsen Tabasi)  | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Few-shot.pdf) |
 
 
 ## Khordad 1401
