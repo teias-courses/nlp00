@@ -9,7 +9,7 @@ show_sidebar: false
 
 message="
 ### Announcements
-* 3rd Assignment is released! Check out [assignments page](assignments).
+* 4th Assignment is released! Check out [assignments page](assignments).
 " 
 icon="false"
 %}

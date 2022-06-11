@@ -30,7 +30,7 @@ show_sidebar: false
 | 11 | 15 Farvardin | More about Transformers (contextualised embeddings, MLM, and BERT, and pretrain/finetune)| |
 | 12 | 20 Farvardin | Transformers: derivatives of BERT and architecture types (subwords and tokenization, decoders, encoders, and encoder-decoders) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C5-More_About_Transformers.pdf)|
 | 13 | 22 Farvardin | *Midterm exam* ||
-| 14 | 27 Farvardin | *Pytorch tutorial* | HW#2 <br /> [[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_2.ipynb) |
+| 14 | 27 Farvardin | *Pytorch tutorial* |[[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_2.ipynb) |
 | 15 | 29 Farvardin | *Pytorch tutorial* | Project Proposal <br /> [[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_3.ipynb) |
 
 ## Ordibehesht 1401
@@ -40,7 +40,7 @@ show_sidebar: false
 | 16 | 5 Ordibehesht | Multilingual Learning (Data balancing) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C6-Multilingual_Learning.pdf) (classes 16 & 19)|
 | 17 | 10 Ordibehesht |  Project Proposal ||
 | 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) | HW#3 <br/> [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Isotropy.pdf) |
-| 19 | 19 Ordibehesht |  Multilingual Learning (Adapters and MAD-X, TLM, cross-lingual transfer learning, zero-shot, and active learning) ||
+| 19 | 19 Ordibehesht |   HW#2 <br /> Multilingual Learning (Adapters and MAD-X, TLM, cross-lingual transfer learning, zero-shot, and active learning) ||
 | 20 | 24 Ordibehesht |  Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF)  | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C7-Question_Answering.pdf) |
 | 21 | 26 Ordibehesht | **Progress Report I** ||
 | 22 | 31 Ordibehesht | \* Few-shot, Zero-shot, and Prompt-based learning (Mohsen Tabasi)  | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Few-shot.pdf) |
